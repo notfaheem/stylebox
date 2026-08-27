@@ -1,6 +1,6 @@
 # StyleBox
 
-CSS custom <code><div></code> box maker
+CSS custom `<div>` box maker
 
 ## What is StyleBox
 
